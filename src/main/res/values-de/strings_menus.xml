@@ -12,7 +12,7 @@
   <string name="menu_characters_show_training">Training</string>
   <string name="menu_characters_show_location">Ort</string>
   <string name="menu_characters_show_account">Konto</string>
-  <string name="menu_wallet_flip_list">Tagebuch</string>
+  <string name="menu_wallet_flip_list">Verlauf</string>
   <string name="menu_wallet_flip_graph">Transaktionen</string>
   <string name="menu_wallet_color_graph">Farben</string>
   <string name="menu_routes_submit">Route</string>
@@ -24,9 +24,9 @@
   <string name="menu_skills_plan_save">Sichern</string>
   <string name="menu_skills_plan_revert">Zurückkehren</string>
   <string name="menu_skills_plan_share">Teilen</string>
-  <string name="menu_wallpaperize">Als Hintergrundbild festlegen</string>
+  <string name="menu_wallpaperize">Als Geräte-Hintergrundbild festlegen</string>
   <string name="menu_wallpaperize_short">Hintergrund</string>
-  <string name="menu_backgroundify">Als Hintergrundbild festlegen</string>
+  <string name="menu_backgroundify">Als App-Hintergrundbild festlegen</string>
   <string name="menu_backgroundify_short">Hintergrund</string>
   <string name="menu_settings_character">Einstellungen</string>
 </resources>
